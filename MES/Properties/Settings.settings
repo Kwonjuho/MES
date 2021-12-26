@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MES.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Oper1_Total_productionValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Oper1_NameValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Poly.</Value>
+    </Setting>
+    <Setting Name="Oper1_Mode_1Value" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EL</Value>
+    </Setting>
+    <Setting Name="Oper1_Mode_2Value" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AB</Value>
+    </Setting>
+    <Setting Name="Oper1_Mode_1_Total_productionValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Oper1_Mode_2_Total_productionValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Oper2_OnOffValue" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Oper1_OnOff_Mode2Value" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Oper2_OnOff_Mode1Value" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Oper2_Total_productionValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Oper2_NameValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Poly.</Value>
+    </Setting>
+    <Setting Name="Oper2_Mode_1Value" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FM</Value>
+    </Setting>
+    <Setting Name="Oper2_Mode_2Value" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ETC</Value>
+    </Setting>
+    <Setting Name="Oper2_Mode_1_Total_productionValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Oper2_Mode_2_Total_productionValue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
